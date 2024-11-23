@@ -10,6 +10,10 @@ Uważam, że trzeba temu poświęcić co najmniej całe życie i jeszcze jeden d
 
 A po za tym lubię długie wycieczki rowerowe, nocne ogniska, grę w karty i planszówki oraz koty :)
 
+PS: Zapraszam również ma mojego Bitbucketa, gdzie znajdują się projekty w trakcie wykonywania:
+
+https://bitbucket.org/kodkarls/workspace/projects/CP
+
 # ENGLISH
 Hello 👋, my name is Karol. For 4 years I was teaching programming to children and teenagers in a private school. In the meantime, I also worked as a C++ programmer on projects related to the virtual reception of team sports using Unreal Engine 4. Until recently, I also held a position as a creator of a SCADA system using Python and the Tango Control environment.
 
@@ -21,6 +25,10 @@ I once heard: "To become an expert in something, you have to spend at least 10,0
 I believe that you need to devote at least your whole life and one more day to this :) I always achieve the goals I set for myself from beginning to end and I never give up. Programming is the art of overcoming problems and learning peace and patience.
 
 And besides, I like long bike trips, night bonfires, playing cards and board games, and cats :)
+
+PS: I also invite you to my Bitbucket, where you can find projects in progress:
+
+https://bitbucket.org/kodkarls/workspace/projects/CP
 
 <!---
 X-Carolinii-X/X-Carolinii-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
