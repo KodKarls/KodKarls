@@ -1,36 +1,103 @@
-# POLISH
-Cześć, jestem Karol. Przez 4 lata zajmowałem się nauczaniem dzieci i młodzieży w prywatnej szkółce z zakresu programowania. W między czasie pracowałem również jako programista C++ przy projektach związanych z wirtualnym odbiorem sportów drużynowych z wykorzystaniem Unreal Engine 4. Do niedawna zajmowałem również stanowisko jako twórca systemu SCADA przy użyciu Pythona i środowiska Tango Control. 
+# 👋 Cześć, jestem Karol! | Hi, I'm Karol!
 
-Obecnie obrałem za cel przyjmowanie i realizację zleceń zewnętrznych od prywatnych ludzi jak i firm. Realizuję kursy z języka C++, C oraz Pythona własnego autorstwa. Pomagam w pracach biurowych np. automatyzując zadania w Excelu i realizuję mniejsze jak i większe projekty od A do Z z wykorzystaniem wymienionych języków programowania.
+**💻 C++ & Python Developer | 🎮 Game Development | 🧠 Software Architecture | 🎓 Programming Educator**
 
-Jeżeli potrzebujesz pomocy, masz jakieś zadanie, na które nie masz czasu, a może po prostu chcesz się czegoś nauczyć, śmiało skontaktuj się ze mną. 
+Twórca **KodKarls** - miejsca, w którym programowanie spotyka się z kreatywnością, eksperymentowaniem i nauką przez praktykę.
 
-Kiedyś usłyszałem: "Aby zostać ekspertem w jakiejś dziedzinie należy spędzić nad nią co najmniej 10 000 godzin". 
-Uważam, że trzeba temu poświęcić co najmniej całe życie i jeszcze jeden dzień dłużej :) Wyznaczone sobie cele zawsze realizuję od początku do końca i nigdy nie odpuszczam. Programowanie to sztuka pokonywania problemów oraz nauka spokoju i cierpliwości.
+Creator of **KodKarls** - a place where programming meets creativity, experimentation, and hands-on learning.
 
-A po za tym lubię długie wycieczki rowerowe, nocne ogniska, grę w karty i planszówki oraz koty :)
+---
 
-PS: Zapraszam również ma mojego Bitbucketa, gdzie znajdują się projekty w trakcie wykonywania:
+## 🇵🇱 O mnie
 
-https://bitbucket.org/kodkarls/workspace/projects/CP
+Cześć! Jestem Karol, a w internecie działam jako **KodKarls**.
 
-# ENGLISH
-Hello 👋, my name is Karol. For 4 years I was teaching programming to children and teenagers in a private school. In the meantime, I also worked as a C++ programmer on projects related to the virtual reception of team sports using Unreal Engine 4. Until recently, I also held a position as a creator of a SCADA system using Python and the Tango Control environment.
+Jestem programistą C++ i Pythona, pasjonatem tworzenia gier, projektowania architektury oprogramowania oraz odkrywania ciekawych zastosowań programowania.
 
-Currently, my goal is to accept and complete external orders from private people and companies. I conduct my own courses in C++, C and Python. I help with office work, e.g. by automating tasks in Excel and I carry out smaller and larger projects from A to Z using the above-mentioned programming languages.
+Wierzę, że najlepszym sposobem na zrozumienie technologii jest samodzielne eksperymentowanie, budowanie projektów i rozwiązywanie rzeczywistych problemów.
 
-If you need help, have a task you don't have time for, or maybe you just want to learn something, feel free to contact me.
+### 🚀 Czym obecnie się zajmuję?
 
-I once heard: "To become an expert in something, you have to spend at least 10,000 hours on it."
-I believe that you need to devote at least your whole life and one more day to this :) I always achieve the goals I set for myself from beginning to end and I never give up. Programming is the art of overcoming problems and learning peace and patience.
+- 🎮 **Tworzenie gier i aplikacji** - rozwijam projekty w C++ i Pythonie, eksperymentując z mechanikami gier, algorytmami i systemami.
+- 🧩 **Architektura oprogramowania** - interesuję się wzorcami projektowymi, modularnością, systemami zdarzeń i projektowaniem skalowalnych rozwiązań.
+- 🔬 **Symulacje i eksperymenty** - wykorzystuję programowanie do badania ciekawych zagadnień matematycznych, fizycznych i probabilistycznych.
+- 🎓 **Edukacja programistyczna** - prowadzę indywidualne zajęcia z C++ i Pythona oraz przygotowuję autorskie kursy i intensywne warsztaty projektowe.
+- 🎥 **YouTube KodKarls** - dzielę się wiedzą, tworzę materiały edukacyjne i rozwijam format wspólnego programowania na żywo.
+- 🛠️ **Projekty i automatyzacje** - tworzę rozwiązania programistyczne, narzędzia oraz automatyzacje dopasowane do konkretnych potrzeb.
 
-And besides, I like long bike trips, night bonfires, playing cards and board games, and cats :)
+### 💼 Moje doświadczenie
 
-PS: I also invite you to my Bitbucket, where you can find projects in progress:
+Moja dotychczasowa droga zawodowa łączy programowanie komercyjne z edukacją.
 
-https://bitbucket.org/kodkarls/workspace/projects/CP
+- Przez 4 lata uczyłem dzieci i młodzież programowania w prywatnej szkole.
+- Pracowałem jako programista **C++**, uczestnicząc w projektach związanych ze sportem i wykorzystujących **Unreal Engine**.
+- Rozwijałem systemy **SCADA** z wykorzystaniem **Pythona** i środowiska **Tango Controls**.
+- Zajmowałem się również tworzeniem narzędzi, automatyzacją procesów i realizacją projektów programistycznych.
 
-<!---
-X-Carolinii-X/X-Carolinii-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎯 Moja filozofia
+
+**Programowanie to nie tylko pisanie kodu. To sztuka rozumienia problemów, szukania rozwiązań i nieustannego odkrywania czegoś nowego.**
+
+Lubię projekty, które wymagają kreatywności, cierpliwości i czasem zupełnie nietypowego podejścia.
+
+A poza komputerem? Długie wycieczki rowerowe, ogniska, gry planszowe i oczywiście koty! 🐈
+
+### 🤝 Współpraca i nauka
+
+Chcesz nauczyć się programowania, stworzyć własną grę, rozwinąć projekt albo potrzebujesz wsparcia programistycznego?
+
+Zapraszam do kontaktu!
+
+- 🎥 **YouTube:** [KodKarls](https://www.youtube.com/@kodkarls)
+- 🎓 **Indywidualne zajęcia:** [Mój profil na Superprof](https://www.superprof.pl/programista-python-ucze-programowania-podstaw-przez-programowanie-obiektowe-praktyczne-projekty-nauka-spokojnym.html)
+- 💻 **Pozostałe projekty:** [Bitbucket KodKarls](https://bitbucket.org/kodkarls/workspace/projects/CP)
+
+---
+
+## 🇬🇧 About Me
+
+Hi! I'm Karol, also known online as **KodKarls**.
+
+I'm a C++ and Python developer passionate about game development, software architecture, and exploring interesting applications of programming.
+
+I believe the best way to truly understand technology is by experimenting, building practical projects, and solving real-world problems.
+
+### 🚀 What I'm Currently Working On
+
+- 🎮 **Game & Application Development** - building projects in C++ and Python, exploring game mechanics, algorithms, and software systems.
+- 🧩 **Software Architecture** - exploring design patterns, modularity, event-driven systems, and scalable software design.
+- 🔬 **Simulations & Experiments** - using programming to investigate fascinating concepts in mathematics, physics, and probability.
+- 🎓 **Programming Education** - teaching C++ and Python, developing original courses, and preparing intensive project-based workshops.
+- 🎥 **KodKarls on YouTube** - sharing programming knowledge, creating educational content, and developing live coding sessions.
+- 🛠️ **Software Projects & Automation** - developing tools, custom software solutions, and automation workflows.
+
+### 💼 Professional Background
+
+My professional experience combines commercial software development with programming education.
+
+- Spent 4 years teaching programming to children and teenagers at a private programming school.
+- Worked as a **C++ developer** on sports-related projects using **Unreal Engine**.
+- Developed **SCADA systems** using **Python** and **Tango Controls**.
+- Worked on software tools, process automation, and custom programming projects.
+
+### 🎯 My Philosophy
+
+**Programming isn't just about writing code. It's about understanding problems, discovering solutions, and constantly learning something new.**
+
+I enjoy projects that challenge conventional thinking and encourage creativity, patience, and experimentation.
+
+Outside of programming, I enjoy cycling, campfires, board games, and, of course, cats! 🐈
+
+### 🤝 Let's Connect!
+
+Looking to learn programming, create your own game, collaborate on a project, or get help with software development?
+
+Feel free to reach out!
+
+- 🎥 **YouTube:** [KodKarls](https://www.youtube.com/@kodkarls)
+- 🎓 **Programming Lessons:** [My Superprof Profile](https://www.superprof.pl/programista-python-ucze-programowania-podstaw-przez-programowanie-obiektowe-praktyczne-projekty-nauka-spokojnym.html)
+- 💻 **Other Projects:** [KodKarls on Bitbucket](https://bitbucket.org/kodkarls/workspace/projects/CP)
+
+---
+
+**Keep coding, keep experimenting, and never stop being curious! 🚀**
